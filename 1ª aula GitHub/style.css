@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(47, 255, 92);
+    color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+span{
+    color: rgb(24, 168, 60);
+    outline: auto;
+}
+
+p{
+    align-items: center;
+    font-size: 18px;
+}
