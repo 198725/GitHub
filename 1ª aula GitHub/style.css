@@ -1,6 +1,6 @@
 body{
     background-color: rgb(47, 255, 92);
-    color: white;
+    color: rgb(255, 243, 243);
 }
 
 h1{
@@ -15,5 +15,5 @@ span{
 
 p{
     align-items: center;
-    font-size: 18px;
+    font-size: 20px;
 }
